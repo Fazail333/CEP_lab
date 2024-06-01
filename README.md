@@ -20,3 +20,8 @@ Representation of architecture through clear block diagrams is shown below.
 
 The pinout diagram of the UART transmitter is given below.
       ![pinout](./docs/pinout.png)
+      
+## Datapath and Controller 
+
+The datapath and controller of the UART transmitter is given below.
+      ![datapath and controller](./docs/dp_cp.png)
