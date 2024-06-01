@@ -19,4 +19,4 @@ Representation of architecture through clear block diagrams is shown below.
 ## Pinout Diagram
 
 The pinout diagram of the UART transmitter is given below.
-![pinout](./docs/pinout.png)
+      ![pinout](./docs/pinout.png)
